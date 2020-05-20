@@ -27,7 +27,7 @@
 
 # How to use this application
 
--  Import job.sql in your database which you will find easyly on Database folder 
+-  Import ecomphp.sql in your database which you will find easyly on Config folder 
 -  if you are on live server ,import all files in your Hosting
 -  if you are on local server[Xampp Server] ,put all files on htdocs Folder [c/xampp] 
 
